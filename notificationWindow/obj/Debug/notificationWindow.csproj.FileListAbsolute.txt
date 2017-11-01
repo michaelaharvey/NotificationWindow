@@ -1,0 +1,17 @@
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\bin\Debug\notificationWindow.exe.config
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\bin\Debug\notificationWindow.exe
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\bin\Debug\notificationWindow.pdb
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\notificationWindow.csprojResolveAssemblyReference.cache
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\MainWindow.g.cs
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\App.g.cs
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\notificationWindow_MarkupCompile.cache
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\notificationWindow_MarkupCompile.lref
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\MainWindow.baml
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\notificationWindow.g.resources
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\notificationWindow.Properties.Resources.resources
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\notificationWindow.csproj.GenerateResource.Cache
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\notificationWindow.csproj.CoreCompileInputs.cache
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\notificationWindow.exe
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\notificationWindow.pdb
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\Window1.g.cs
+C:\Users\1707091\Documents\Visual Studio 2017\Projects\notificationWindow\notificationWindow\obj\Debug\Window1.baml
